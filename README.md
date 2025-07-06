@@ -14,7 +14,7 @@ This project integrates **Groq's Llama 3** model into a Telegram bot using **Lan
 
 - **Python 3.12**
 - **LangChain**
-- **OpenAI API**
+- **Groq Llama 3**
 - **Telegram Bot API**
 - **AsyncIO / aiohttp**
 
