@@ -1,4 +1,4 @@
-# Raya ChatGPT Integration
+# Raya Telegram-LangChain Integration
 
 This project integrates **Groq's Llama 3** model into a Telegram bot using **LangChain**, for conversational AI experimentation and personal productivity.
 
